@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="50px" height="50px" viewBox="0 0 50 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>返回顶部</title>
+    <g id="返回顶部" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="编组-4">
+            <rect id="矩形" fill="#000000" opacity="0.6" x="0" y="0" width="50" height="50" rx="25"></rect>
+            <g id="编组-2" transform="translate(15.000000, 13.000000)" fill="#FFFFFF">
+                <text id="顶部" font-family="PingFangSC-Medium, PingFang SC" font-size="10" font-weight="400">
+                    <tspan x="0" y="21">顶部</tspan>
+                </text>
+                <path d="M16.2524272,7.52727273 C16.0711974,7.52727273 15.8899676,7.44 15.7087378,7.26545454 L10,1.76727272 L4.29126213,7.26545454 C4.01941746,7.52727273 3.47572815,7.52727273 3.2038835,7.26545454 C2.93203883,7.00363635 2.93203883,6.47999999 3.2038835,6.21818182 L9.45631067,0.196363644 C9.72815534,-0.065454548 10.2718447,-0.065454548 10.5436893,0.196363644 L16.7961165,6.21818182 C17.0679612,6.48000001 17.0679612,7.00363637 16.7961165,7.26545454 C16.6148867,7.44 16.433657,7.52727273 16.2524272,7.52727273 Z" id="路径" fill-rule="nonzero"></path>
+            </g>
+        </g>
+    </g>
+</svg>
